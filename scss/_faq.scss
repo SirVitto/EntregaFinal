@@ -1,0 +1,63 @@
+/* faq*/
+
+.info-faq{
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-top: 0.3rem;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 1rem;
+    margin-left: 2rem; 
+    margin-right: 2rem;
+}
+
+
+
+.t1{
+    background-color: whitesmoke;
+}
+
+/* tips*/
+
+.tips{
+    margin: auto;
+}
+
+.envio{
+    .card{
+        display: flex;
+        padding: 1rem;
+        flex-wrap: wrap;
+    } 
+    
+}
+.col-md{
+    width: 27rem;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+.ch{
+    display: flex;
+    justify-content: center;
+}
+
+
+.info-dev{
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-top: 0.3rem;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 1rem;
+    margin-left: 2rem; 
+    margin-right: 2rem;
+}
+
+.dev{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
